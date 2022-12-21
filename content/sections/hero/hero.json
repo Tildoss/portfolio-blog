@@ -1,5 +1,5 @@
 {
-  "intro": "Oy",
+  "intro": "Hello there",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,15 +8,15 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Welcome to my website",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "If you need the services of an experienced and passionate ",
+    "highlight": "cybersecurity expert",
+    "suffix": " you are in the right place"
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I provide any services, from risk management to pentesting, in english or french. I'm also regularly posting new articles in my blog concerning cybersecurity, digital and physical pentest.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
   }
 }

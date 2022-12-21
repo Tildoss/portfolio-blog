@@ -2,7 +2,7 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://tildoss.gatsbyjs.io/",
-    "title": "Tildoss' Blog",
+    "title": "Tildoss Pentest Blog",
     "titleTemplate": "%s ",
     "description": "",
     "author": "Thimothé GADEA",
@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Tildoss The Pentester" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
