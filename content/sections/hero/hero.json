@@ -8,13 +8,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "Welcome to my website",
+  "title": "Welcome to my website !",
   "subtitle": {
     "prefix": "If you need the services of an experienced and passionate ",
-    "highlight": "cybersecurity expert",
-    "suffix": " you are in the right place"
+    "highlight": "cyber security consultant",
+    "suffix": " you are in the right place !"
   },
-  "description": "I provide any services, from risk management to pentesting, in english or french. I'm also regularly posting new articles in my blog concerning cybersecurity, digital and physical pentest.",
+  "description": "I provide any services, from risk management to pentesting, in english or french. I'm also regularly posting new articles in my blog concerning cyber security, digital and physical pentest.",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true

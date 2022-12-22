@@ -1,13 +1,12 @@
 ---
 imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Pentest Blog"
+imageAlt: "About Me Pentest Blog"
 ---
 
-Welcome to my personal website ! It is the place where you can learn more about myself and my services. You can also find my blog in which I write articles about cybersecurity, digital and physical pentest.
+As a freelance cyber security consultant, I am an expert in helping businesses and organizations protect their digital assets and systems from cyber threats. With years of experience in the field, I have a deep understanding of the latest cybersecurity technologies and best practices, and I am able to provide tailored solutions to meet the unique needs of each client.
 
-As cyber attacks continue to increase in frequency and sophistication, it's more important than ever to stay informed and take proactive measures to safeguard your assets. The services I provide are made specifically in this regard. 
+I offer a range of services, including risk assessments, security audits or phishing campaign. I also have extensive experience in incident response planning and can help clients develop robust plans for responding to and recovering from cyber attacks.
 
-As I love to learn new things everyday, and love even more to share them, I decided to create a blog in the idea that everyone with the same passion as me, could find resources, help and guides in this immense and complex field. 
-
+In addition to my technical expertise, I have excellent communication skills and am able to clearly explain complex cybersecurity concepts to clients in a way that is easy to understand. I am dedicated to providing top-notch service and work closely with clients to ensure their satisfaction.
 
 Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash

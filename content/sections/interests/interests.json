@@ -1,14 +1,14 @@
 {
   "interests": [
     {
-      "label": "Pentest",
+      "label": "Penetration Testing",
       "image": {
         "src": "../../images/joystick.png",
         "alt": ""
       }
     },
     {
-      "label": "Risk Management",
+      "label": "Risk Assessment",
       "image": {
         "src": "../../images/notebook.png",
         "alt": ""
@@ -16,6 +16,13 @@
     },
     {
       "label": "Securing Data",
+      "image": {
+        "src": "../../images/wrench.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Incident Response Plan",
       "image": {
         "src": "../../images/wrench.png",
         "alt": ""

@@ -2,12 +2,12 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://tildoss.gatsbyjs.io/",
-    "title": "Tildoss Pentest Blog",
+    "title": "Tildoss The Pentester",
     "titleTemplate": "%s ",
     "description": "",
     "author": "Thimothé GADEA",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Young and passionate cyber security consultant, diplomed from a great engineering IT school in France, and willing to put my knowledge in use to help companies or people in need.",
     "social": {
       "behance": "",
       "github": "https://github.com/Tildoss",
@@ -22,8 +22,8 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Services", "url": "/#services" },
+        { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
