@@ -7,11 +7,18 @@ banner:
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:
-  - "Flipper"
+  - "Flipper Zero"
 keywords:
   - "Flipper Zero"
-  - "Presentation"
   - "Pentest"
+  - "RFID"
+  - "Bluetooth"
+  - "NFC"
+  - "SubGHz"
+  - "Infrared"
+  - "GPIO"
+  - "iButton"
+  - "USB"
 ---
 
 The **[Flipper Zero](https://flipperzero.one/)** is a modern, open-source hardware device that is designed to be a versatile and portable tool for cybersecurity professionals and enthusiasts.
