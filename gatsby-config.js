@@ -6,7 +6,7 @@ module.exports = {
         siteUrl: "https://tildoss.gatsbyjs.io/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
-          siteName: "My Pentester Blog", // Used in manifest.json
+          siteName: "Tildoss The Pentester", // Used in manifest.json
           shortName: "Blog", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
           backgroundColor: "#FFFFFF", // Used in manifest.json
