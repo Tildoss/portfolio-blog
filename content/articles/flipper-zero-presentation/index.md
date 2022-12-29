@@ -3,9 +3,9 @@ title: "The Wonderful Flipper Zero !"
 description: "This description will be used for the article listing and search results on Google."
 date: "2022-12-23"
 banner:
-  src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
-  alt: "First Markdown Post"
-  caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
+  src: "../../images/flipper/flipper.jpeg"
+  alt: "The Flipper Zero"
+  caption: 'The Flipper Zero'
 categories:
   - "Flipper Zero"
 keywords:
@@ -35,11 +35,11 @@ One of the key features of the Flipper Zero is its ability to run a wide range o
 
 - **Infrared Transceiver**. Works on TVs, air conditioners, projectors and more. A universal remote is available, with power on/off, changing volume or channel. It will go over every known signals to find the right one for your target. It also works as a receiver, allowing you to receive signals and save them in the Flipper Zero (from your own TV for example), to transmit commands later.
 
-- **iButton 1-Wire**. Used in very old systems, so do not expect to find it in your new residence. The 1-Wire protocol does not have any authentication, so the Flipper Zero can easily read the IDs and emulate them.
+- **iButton 1-Wire**. Used in very old systems, so do not expect to find it in your new residence. The 1-Wire protocol does not have any authentication, so the Flipper Zero can easily read the IDs, copy them and emulate them.
 
 - **GPIO**. For hardware exploration. The Flipper Zero can be connected to any hardware with GPIO to control it with buttons, run your own code and print messages to the screen.
 
-- **USB 2.0, type C**. The Flipper Zero can be connected to devices using USB, allowing you to control your Flipper Zero from your desktop with the qFlipper application, or try out your badusb scripts written in ducky script.
+- **USB 2.0, type C**. The Flipper Zero can be connected to devices using USB, allowing you to control your Flipper Zero from your desktop with the qFlipper application, update it, manage the files on your SD card. The Flipper Zero also works as a badusb. You can create several scripts written in ducky script, save them in your Flipper Zero and try them all you want.
 
 ![Inside the Flipper Zero](../../images/flipper/inside-flipper.png)
 
