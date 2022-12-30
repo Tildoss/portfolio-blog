@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
+imageSrc: "../../images/moi.jpg"
 imageAlt: "About Me Pentest Blog"
 ---
 
@@ -8,5 +8,3 @@ As a freelance cyber security consultant, I am an expert in helping businesses a
 I offer a range of services, including risk assessments, security audits or phishing campaign. I also have extensive experience in incident response planning and can help clients develop robust plans for responding to and recovering from cyber attacks.
 
 In addition to my technical expertise, I have excellent communication skills and am able to clearly explain complex cybersecurity concepts to clients in a way that is easy to understand. I am dedicated to providing top-notch service and work closely with clients to ensure their satisfaction.
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash

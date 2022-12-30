@@ -3,28 +3,28 @@
     {
       "label": "Penetration Testing",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "",
         "alt": ""
       }
     },
     {
       "label": "Risk Assessment",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "",
         "alt": ""
       }
     },
     {
       "label": "Securing Data",
       "image": {
-        "src": "../../images/wrench.png",
+        "src": "",
         "alt": ""
       }
     },
     {
       "label": "Incident Response Plan",
       "image": {
-        "src": "../../images/wrench.png",
+        "src": "",
         "alt": ""
       }
     }
